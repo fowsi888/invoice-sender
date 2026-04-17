@@ -5,3 +5,4 @@ __pycache__/
 *.pdf
 invoice_log.csv
 .DS_Store
+speaking_script.md

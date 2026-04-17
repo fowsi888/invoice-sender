@@ -83,25 +83,51 @@ Show:
 
 ---
 
-### [CLOSE — 13:00 to 14:00]
+### [ENGAGEMENT — 13:00 to 13:40]
 
-> "Script is linked below. Set it up once, use it forever.
+Face to camera. Serious tone — make it feel like a real deal.
+
+> "Before I go — I want to make you a promise.
 >
-> Next video — something different.
-> We're building a crypto price monitor that buys automatically.
+> If this video hits 20,000 likes,
+> I will build the full UI version of this tool.
 >
-> Time saved. Money made.
+> Not a terminal script.
+> A proper app — you open it, you add your customer details,
+> you hit one button, and the invoice is generated and sent.
+>
+> And there'll be a full dashboard —
+> every customer you've ever billed,
+> every invoice you've sent, the amounts, the dates — all in one place.
+>
+> No code. No terminal. Just a clean tool you can actually hand to someone else.
+>
+> 20,000 likes. That's the number.
+> You decide if this gets built."
+
+Pause. Let it land.
+
+> "Link's in the description. Go."
+
+---
+
+### [CLOSE — 13:40 to 14:00]
+
+> "Time saved. Money made.
 > This is FOMAD."
 
 ---
 
 ## Visuals Guide
 
-| Timestamp   | Visual                                                              |
-| ----------- | ------------------------------------------------------------------- |
-| 0:00–0:20   | Screen: manual invoice process in Google Docs — slow and painful    |
-| 0:20–1:00   | Face to camera                                                      |
-| 1:00–9:00   | Code editor live walkthrough — highlight each section               |
-| 9:00–11:30  | Terminal run → PDF opens → email inbox shows received invoice       |
-| 11:30–13:00 | Face to camera — monetisation angles                                |
-| 13:00–14:00 | Cut to black → "Time saved. Money made." → fomad.net               |
+| Timestamp   | Visual                                                                              |
+| ----------- | ----------------------------------------------------------------------------------- |
+| 0:00–0:20   | Screen: manual invoice process in Google Docs — slow and painful                    |
+| 0:20–1:00   | Face to camera                                                                      |
+| 1:00–9:00   | Code editor live walkthrough — highlight each section                               |
+| 9:00–11:30  | Terminal run → PDF opens → email inbox shows received invoice                       |
+| 11:30–13:00 | Face to camera — monetisation angles                                                |
+| 13:00–13:40 | Face to camera — engagement pitch. Show mockup UI screenshot if available           |
+| 13:40–14:00 | Cut to black → "Time saved. Money made." → fomad.net                               |
+
+> **UI mockup tip:** Even a rough Figma or screenshot of what the app would look like on screen during the engagement section makes the promise feel real and drives more likes.

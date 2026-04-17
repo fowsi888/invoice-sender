@@ -32,6 +32,7 @@ EMAIL_PASSWORD=your_gmail_app_password
 
 > **Gmail App Password:** Google Account → Security → 2-Step Verification → App Passwords.
 > Use that — not your login password.
+> Generate one here: [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
 
 ---
 

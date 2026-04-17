@@ -9,13 +9,14 @@ What it does:
   4. Logs every sent invoice to a local CSV file
 
 Requirements:
-  pip install reportlab python-dotenv rich
+  pip install reportlab python-dotenv rich certifi
 """
 
 import os
 import csv
 import smtplib
 import ssl
+import certifi
 from email.mime.multipart import MIMEMultipart
 from email.mime.text     import MIMEText
 from email.mime.base     import MIMEBase
@@ -261,7 +262,7 @@ def send_email(invoice: dict, pdf_path: str):
     part.add_header("Content-Disposition", f'attachment; filename="{os.path.basename(pdf_path)}"')
     msg.attach(part)
 
-    context = ssl.create_default_context()
+    context = ssl.create_default_context(cafile=certifi.where())
     with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, context=context) as server:
         server.login(EMAIL_SENDER, EMAIL_PASSWORD)
         server.sendmail(EMAIL_SENDER, recipient, msg.as_string())

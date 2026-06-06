@@ -119,7 +119,6 @@ The script will:
 ## 📞 Contact & Support
 
 - **Website:** [fomad.net](https://fomad.net)
-- **YouTube:** [FOMAD](https://youtube.com/@fomad)
 - **Email:** info@fomad.net
 
 ---

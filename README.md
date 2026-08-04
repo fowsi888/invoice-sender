@@ -118,7 +118,7 @@ The script will:
 
 ## 📞 Contact & Support
 
-- **Website:** [fomad.net](https://fomad.net)
+- **Website:** [5a-hub](https://5a-hub.com)
 - **Email:** info@fomad.net
 
 ---

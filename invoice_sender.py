@@ -1,5 +1,4 @@
 """
-FOMAD - Episode 3 (Automation Playlist)
 Automated Invoice Generator + Email Sender
 
 What it does:
